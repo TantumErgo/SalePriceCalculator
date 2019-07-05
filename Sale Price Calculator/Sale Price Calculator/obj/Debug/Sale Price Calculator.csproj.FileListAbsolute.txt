@@ -1,0 +1,9 @@
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Properties.Resources.resources
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csproj.GenerateResource.Cache
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+c:\users\nik\documents\visual studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb
+C:\Users\Nik\Documents\Visual Studio 2015\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csprojResolveAssemblyReference.cache
